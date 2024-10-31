@@ -147,11 +147,8 @@ https://ropsten.etherscan.io/address/0x2Bce4076C8EE3facddC3325FfA4314B854d9447b#
 👤 **Huynh Duc Dung**
 
 - Website: https://productsway.com/
-- Github: [@jellydn](https://github.com/tentwinkle)
+- Github: https://github.com/tentwinkle
 
-## Stargazers 🌟
-
-[![Stargazers repo roster for jellydn/react-dapp](https://reporoster.com/stars/jellydn/react-dapp)](https://github.com/jellydn/react-dapp/stargazers)
 
 ## Show your support
 
