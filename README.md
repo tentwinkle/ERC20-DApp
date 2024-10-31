@@ -1,13 +1,9 @@
 # Welcome to react-dapp 👋
 
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
 > Dapp example with react (vitejs)
 
 [![IT Man - Tech #34 - Viem - TypeScript Interface for Ethereum [Vietnamese]](https://i.ytimg.com/vi/D3_RePAQ9xQ/hqdefault.jpg)](https://www.youtube.com/watch?v=D3_RePAQ9xQ)
-
-## 🏠 [Homepage](https://github.com/jellydn/react-dapp)
 
 ### ✨ [Demo](https://dapp-demo.productsway.com/)
 
@@ -23,7 +19,6 @@ bun install
 
 ## Built with
 
-- New-Web-App cli https://github.com/jellydn/new-web-app
 - [Hardhat](https://hardhat.org/) with [TypeChain](https://github.com/ethereum-ts/TypeChain) integration https://github.com/ethereum-ts/TypeChain/tree/master/packages/hardhat
 
 ## Develop
@@ -152,8 +147,7 @@ https://ropsten.etherscan.io/address/0x2Bce4076C8EE3facddC3325FfA4314B854d9447b#
 👤 **Huynh Duc Dung**
 
 - Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
+- Github: [@jellydn](https://github.com/tentwinkle)
 
 ## Stargazers 🌟
 
