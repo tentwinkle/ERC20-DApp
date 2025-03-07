@@ -141,15 +141,6 @@ for verification on Etherscan. Waiting for verification result...
 Successfully verified contract StandardToken on Etherscan.
 https://ropsten.etherscan.io/address/0x2Bce4076C8EE3facddC3325FfA4314B854d9447b#code
 ```
-
-## Link
-
-
-
-- Website: https://productsway.com/
-- Github: https://github.com/tentwinkle
-
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
