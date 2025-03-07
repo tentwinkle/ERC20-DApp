@@ -142,9 +142,9 @@ Successfully verified contract StandardToken on Etherscan.
 https://ropsten.etherscan.io/address/0x2Bce4076C8EE3facddC3325FfA4314B854d9447b#code
 ```
 
-## Author
+## Link
 
-👤 **Huynh Duc Dung**
+
 
 - Website: https://productsway.com/
 - Github: https://github.com/tentwinkle
@@ -154,8 +154,8 @@ https://ropsten.etherscan.io/address/0x2Bce4076C8EE3facddC3325FfA4314B854d9447b#
 
 Give a ⭐️ if this project helped you!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q61Q7YM)
+
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
